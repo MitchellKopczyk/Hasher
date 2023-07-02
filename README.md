@@ -2,6 +2,9 @@
 
 Hasher is a simple application that calculates the hash value of a file using various hashing algorithms. It allows you to browse for a file, select a hashing algorithm, provide a checksum value, and then calculates the hash of the file using the selected algorithm. It compares the calculated hash with the provided checksum and displays a message indicating whether they match or not.
 
+<img src="https://raw.githubusercontent.com/MitchellKopczyk/Hasher/main/sample-0.png"/>
+<img src="https://raw.githubusercontent.com/MitchellKopczyk/Hasher/main/sample-1.png"/>
+
 ## Dependencies
 
 The Hasher application relies on the following dependencies:
